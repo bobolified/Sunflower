@@ -3,7 +3,7 @@
 //  SunflowerTests
 //
 //  Created by Xuanvinh Vu on 2/5/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Amusant Labs. All rights reserved.
 //
 
 #import "SunflowerTests.h"
