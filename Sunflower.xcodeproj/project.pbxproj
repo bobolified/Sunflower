@@ -37,20 +37,20 @@
 		C3827F2A14DEBDFD00EF6384 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C3827F2C14DEBDFD00EF6384 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C3827F2E14DEBDFD00EF6384 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C3827F3214DEBDFD00EF6384 /* Sunflower-Info.plist */ = {isa = PBXFileReference; path = "Sunflower-Info.plist"; sourceTree = "<group>"; };
+		C3827F3214DEBDFD00EF6384 /* Sunflower-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Sunflower-Info.plist"; sourceTree = "<group>"; };
 		C3827F3414DEBDFD00EF6384 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C3827F3614DEBDFD00EF6384 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C3827F3814DEBDFD00EF6384 /* Sunflower-Prefix.pch */ = {isa = PBXFileReference; path = "Sunflower-Prefix.pch"; sourceTree = "<group>"; };
-		C3827F3914DEBDFD00EF6384 /* SunflowerAppDelegate.h */ = {isa = PBXFileReference; path = SunflowerAppDelegate.h; sourceTree = "<group>"; };
+		C3827F3814DEBDFD00EF6384 /* Sunflower-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sunflower-Prefix.pch"; sourceTree = "<group>"; };
+		C3827F3914DEBDFD00EF6384 /* SunflowerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SunflowerAppDelegate.h; sourceTree = "<group>"; };
 		C3827F3A14DEBDFD00EF6384 /* SunflowerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SunflowerAppDelegate.m; sourceTree = "<group>"; };
 		C3827F3D14DEBDFD00EF6384 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		C3827F3F14DEBDFD00EF6384 /* SunflowerViewController.h */ = {isa = PBXFileReference; path = SunflowerViewController.h; sourceTree = "<group>"; };
+		C3827F3F14DEBDFD00EF6384 /* SunflowerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SunflowerViewController.h; sourceTree = "<group>"; };
 		C3827F4014DEBDFD00EF6384 /* SunflowerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SunflowerViewController.m; sourceTree = "<group>"; };
 		C3827F4714DEBDFD00EF6384 /* SunflowerTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SunflowerTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3827F4814DEBDFD00EF6384 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		C3827F5014DEBDFD00EF6384 /* SunflowerTests-Info.plist */ = {isa = PBXFileReference; path = "SunflowerTests-Info.plist"; sourceTree = "<group>"; };
+		C3827F5014DEBDFD00EF6384 /* SunflowerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SunflowerTests-Info.plist"; sourceTree = "<group>"; };
 		C3827F5214DEBDFD00EF6384 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		C3827F5414DEBDFD00EF6384 /* SunflowerTests.h */ = {isa = PBXFileReference; path = SunflowerTests.h; sourceTree = "<group>"; };
+		C3827F5414DEBDFD00EF6384 /* SunflowerTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SunflowerTests.h; sourceTree = "<group>"; };
 		C3827F5514DEBDFD00EF6384 /* SunflowerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SunflowerTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
